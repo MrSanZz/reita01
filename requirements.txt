@@ -2,4 +2,3 @@ pycryptodome
 requests
 colorama
 fake_useragent
-tensorflow
