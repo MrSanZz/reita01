@@ -1,5 +1,7 @@
 <center><img src="https://raw.githubusercontent.com/MrSanZz/reita01/refs/heads/main/Screenshot_2025-06-14-16-49-56-371_com.termux.jpg" width="100%" height="60%"></center>
 
+<center><img src="https://komarev.com/ghpvc/?username=MrSanZz&color=blue&style=flat-square&label=Views"></img></center>
+
 # Use (Linux Distro)
 1. apt-get update && apt-get upgrade (if not updated and upgraded)
 2. apt install python3 && apt install python3-pip
