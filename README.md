@@ -2,6 +2,8 @@
 
 <center><img src="https://komarev.com/ghpvc/?username=MrSanZz&color=blue&style=flat-square&label=Views"></img></center>
 
+<h2><strong>You don't need an Api Key!</strong></h2>
+
 # Use (Linux Distro)
 1. apt-get update && apt-get upgrade (if not updated and upgraded)
 2. apt install python3 && apt install python3-pip
