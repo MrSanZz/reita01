@@ -1,24 +1,8 @@
-<center><img src="https://raw.githubusercontent.com/MrSanZz/reita01/refs/heads/main/Screenshot_2025-06-14-16-49-56-371_com.termux.jpg" width="100%" height="60%"></center>
+# ATTENTION
 
-<center><img src="https://komarev.com/ghpvc/?username=MrSanZz&color=blue&style=flat-square&label=Views"></img></center>
+This tool has been deprecated and discontinued, if you wanna access the WormGPT
+you can use our new AI at: https://github.com/MrSanZz/KawaiiGPT
 
-<h2><strong>You don't need an Api Key!</strong></h2>
-Working LIC: 104116116112115584747101535449454949494557504549545345505346110103114111107451021141011014697112112
+Please note that we wouldn't focused on InsomniaGPT-Prompt anymore
 
-# Use (Linux Distro)
-1. apt-get update && apt-get upgrade (if not updated and upgraded)
-2. apt install python3 && apt install python3-pip
-3. apt install git
-4. git clone https://github.com/MrSanZz/reita01
-5. cd reita01
-6. pip3 install -r requirements.txt
-7. python3 reita.py
-
-# Use (Termux)
-1. pkg update && pkg upgrade (if not updated and upgraded)
-2. pkg install python3
-3. pkg install git
-4. git clone https://github.com/MrSanZz/reita01
-5. cd reita01
-6. pip3 install -r requirements.txt
-7. python3 reita.py
+Best regards, MrSanZz.
